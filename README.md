@@ -5,5 +5,3 @@ Add overview of the Base blockchain and its ecosystem
 .
 .
 .
-.
-.545
